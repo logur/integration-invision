@@ -21,7 +21,7 @@ go get logur.dev/integration/invision
 package main
 
 import (
-	"github.com/goph/logur"
+	"logur.dev/logur"
 	invisionintegration "logur.dev/integration/invision"
 )
 
