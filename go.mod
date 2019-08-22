@@ -4,5 +4,8 @@ go 1.12
 
 require (
 	github.com/InVisionApp/go-logger v1.0.1
-	github.com/goph/logur v0.12.0
+	github.com/onsi/ginkgo v1.9.0 // indirect
+	github.com/onsi/gomega v1.6.0 // indirect
+	github.com/sirupsen/logrus v1.4.2 // indirect
+	logur.dev/logur v0.15.0
 )

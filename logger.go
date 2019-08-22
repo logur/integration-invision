@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	log "github.com/InVisionApp/go-logger"
-	"github.com/goph/logur"
+	"logur.dev/logur"
 )
 
 // Logger is a github.com/InVisionApp/go-logger.Logger logger.

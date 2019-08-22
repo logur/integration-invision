@@ -1,7 +1,7 @@
 package invision_test
 
 import (
-	"github.com/goph/logur"
+	"logur.dev/logur"
 
 	invisionintegration "logur.dev/integration/invision"
 )
