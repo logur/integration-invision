@@ -7,5 +7,5 @@ require (
 	github.com/onsi/ginkgo v1.11.0 // indirect
 	github.com/onsi/gomega v1.8.1 // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
-	logur.dev/logur v0.15.1
+	logur.dev/logur v0.16.1
 )
