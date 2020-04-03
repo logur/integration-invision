@@ -1,11 +1,10 @@
 # Logur integration for [InVision go-logger](https://github.com/InVisionApp/go-logger) interface
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/logur/integration-invision/CI?style=flat-square)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/logur/integration-invision/CI?style=flat-square)](https://github.com/logur/integration-invision/actions?query=workflow%3ACI)
 [![Codecov](https://img.shields.io/codecov/c/github/logur/integration-invision?style=flat-square)](https://codecov.io/gh/logur/integration-invision)
 [![Go Report Card](https://goreportcard.com/badge/logur.dev/integration/invision?style=flat-square)](https://goreportcard.com/report/logur.dev/integration/invision)
-[![GolangCI](https://golangci.com/badges/github.com/logur/integration-invision.svg)](https://golangci.com/r/github.com/logur/integration-invision)
-[![Go Version](https://img.shields.io/badge/go%20version-%3E=1.11-61CFDD.svg?style=flat-square)](https://github.com/logur/integration-invision)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](https://godoc.org/logur.dev/integration/invision)
+![Go Version](https://img.shields.io/badge/go%20version-%3E=1.11-61CFDD.svg?style=flat-square)
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/mod/logur.dev/integration/invision)
 
 
 ## Installation
